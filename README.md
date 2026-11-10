@@ -51,4 +51,3 @@ Every push to the configured Git branch will trigger a new deployment. The `_hea
     ├── ia-writer-mono-400.woff2
     └── ia-writer-mono-700.woff2
 ```
-**Suggested topics:** `personal-website`, `link-in-bio`, `static-site`, `cloudflare-pages`, `html`, `css`
