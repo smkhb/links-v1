@@ -1,4 +1,4 @@
-# links-v1
+# links
 
 Página de links (estilo Linktree/Beacons) de Samuel Bernardo, no mesmo visual do `portfolio-v3`: fundo `#141414`, iA Writer Mono, sublinhados coloridos sorteados.
 
