@@ -1,15 +1,6 @@
-<div align="center">
-
 # links-v1
 
-A minimal, fast personal links page inspired by Linktree and Beacons, styled to match `portfolio-v3`.
-
-[![Static Site](https://img.shields.io/badge/site-static-222222?style=for-the-badge)](#)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Cloudflare Pages Ready](https://img.shields.io/badge/Cloudflare%20Pages-ready-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](#)
-[![No Build Required](https://img.shields.io/badge/build-none-5A5A5A?style=for-the-badge)](#)
-
-</div>
+> A minimal, fast personal links page inspired by Linktree and Beacons, styled to match `portfolio-v3`.
 
 A lightweight personal landing page with a dark background, iA Writer Mono typography, colorful link underlines, and locally hosted assets. No framework, dependencies, or build step required.
 
@@ -20,16 +11,6 @@ A lightweight personal landing page with a dark background, iA Writer Mono typog
 - Locally hosted fonts and image assets
 - Cloudflare Pages-ready, with cache rules in `_headers`
 - Small footprint: approximately 93 KB total
-
-## 🚀 Run locally
-
-From the project directory, start a local web server:
-
-```bash
-python3 -m http.server 4174
-```
-
-Then open <http://localhost:4174>.
 
 ## 🛠️ Customize
 
@@ -70,11 +51,4 @@ Every push to the configured Git branch will trigger a new deployment. The `_hea
     ├── ia-writer-mono-400.woff2
     └── ia-writer-mono-700.woff2
 ```
-
-## 📌 GitHub About
-
-Copy this description into the repository's **About** field:
-
-> A minimal, responsive personal links page built with plain HTML and CSS. No dependencies or build step; ready to deploy on Cloudflare Pages.
-
 **Suggested topics:** `personal-website`, `link-in-bio`, `static-site`, `cloudflare-pages`, `html`, `css`
